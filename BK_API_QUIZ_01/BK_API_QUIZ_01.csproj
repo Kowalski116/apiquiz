@@ -201,6 +201,10 @@
     <Compile Include="Migrations\202009211414193_test.Designer.cs">
       <DependentUpon>202009211414193_test.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202009211546141_final.cs" />
+    <Compile Include="Migrations\202009211546141_final.Designer.cs">
+      <DependentUpon>202009211546141_final.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Certificate.cs" />
     <Compile Include="Models\CertificateUser.cs" />
@@ -307,6 +311,9 @@
   <ItemGroup>
     <EmbeddedResource Include="Migrations\202009211414193_test.resx">
       <DependentUpon>202009211414193_test.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202009211546141_final.resx">
+      <DependentUpon>202009211546141_final.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

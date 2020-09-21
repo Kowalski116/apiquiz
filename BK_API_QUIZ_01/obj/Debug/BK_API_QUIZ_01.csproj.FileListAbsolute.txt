@@ -100,3 +100,4 @@ C:\Users\congd\source\repos\BK_API_QUIZ_01\BK_API_QUIZ_01\bin\Microsoft.Identity
 C:\Users\congd\source\repos\BK_API_QUIZ_01\BK_API_QUIZ_01\bin\System.IdentityModel.Tokens.Jwt.xml
 C:\Users\congd\source\repos\BK_API_QUIZ_01\BK_API_QUIZ_01\obj\Debug\BK_API_QUIZ_01.Migrations.test.resources
 C:\Users\congd\source\repos\BK_API_QUIZ_01\BK_API_QUIZ_01\obj\Debug\BK_API_QUIZ_01.csproj.GenerateResource.cache
+C:\Users\congd\source\repos\BK_API_QUIZ_01\BK_API_QUIZ_01\obj\Debug\BK_API_QUIZ_01.Migrations.final.resources
